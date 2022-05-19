@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,oBAAqB,CAErB,aACE,qBAAsB,CACtB,kBAAmB","file":"main.829a8adc.chunk.css","sourcesContent":[".app {\n  display: grid;\n  place-content: center;\n\n  &__button {\n    border: 2px solid blue;\n    border-radius: 10px;\n  }\n}\n"]}
